@@ -1,0 +1,410 @@
+# Global Research — gazebo.kayu.co.id
+
+Status: **shared family evidence foundation complete; project gates remain explicit**
+
+Last verified: **2026-07-25 (Asia/Jakarta)**
+
+Research family: **F05 Outdoor wood structures**
+
+Catalog covered: **12 topic families / 72 planned articles** in [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md)
+
+Authority boundary: [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md)
+
+## Purpose
+
+This is the reusable pre-writing evidence layer for the complete `gazebo.kayu.co.id` catalog. It reuses authoritative research from its broader project family, then maps that evidence to this repository's frozen topic families so related sites do not repeat the same source discovery.
+
+It is not an article, a substitute for licensed standards, an engineering calculation, or permission to publish definitive safety, legal, performance, price, or compliance claims. Article writers must cite the original sources, not this file.
+
+## How writers must use this file
+
+1. Start with the coverage row for the relevant topic family.
+2. Open the original source before using a technical, legal, safety, product, or performance claim.
+3. Treat a catalog or abstract as proof of document identity, status, and visible scope only.
+4. Distinguish material, processed product, and complete installed-system performance.
+5. Distinguish Indonesian requirements from foreign reference methods.
+6. Preserve every limitation, stop condition, recheck trigger, and professional-review gate.
+7. Do not assume that evidence shared by a related project applies to a different application, configuration, product, or jurisdiction.
+8. Recheck volatile sources when outlining begins or six months after the date above, whichever comes first.
+
+## Evidence scale
+
+| Grade | Meaning | Permitted use |
+| --- | --- | --- |
+| A | Current Indonesian law, official Indonesian standards catalog, or public primary-source document | Establish document status, jurisdiction, defined scope, and publicly visible facts |
+| B | Current official ISO/standards-body abstract or official public test-method scope | Establish terminology and method scope; full text is required for exact requirements |
+| C | Government technical guidance or recognized industry guidance | Explain concepts/practices with attribution and stated limits |
+| D | Manufacturer technical guidance | Explain product-specific practice without generalizing beyond the documented system |
+| Gate | Paid, project-specific, test-specific, or professional evidence is unresolved | Do not publish definitive selection, number, rating, compliance claim, or procedure |
+
+## Reusable article-shape mapping
+
+| Intent shape | Use of the research |
+| --- | --- |
+| Foundation/definitions | Terms, mechanisms, system boundaries, and commonly confused concepts |
+| Selection/decision | Inputs, alternatives, trade-offs, consequences, and questions |
+| Specification | Required data, units, source documents, assumptions, and approval gates |
+| Design/interfaces | Support, movement, drainage, compatibility, access, and maintainability |
+| Execution/QC | Sequencing, protection, hold points, records, and stop conditions |
+| Diagnosis | Symptoms versus causes, safe observations, escalation, and missing evidence |
+| Maintenance | Compatible methods, exposure logic, warning signs, and records |
+| Procurement/handover | Comparable scope, submittals, tests, exclusions, warranties, and traceability |
+
+## Research register
+
+### KR-01 — Frozen editorial scope and evidence layers
+- **Sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Grade:** C-PRI — verified project evidence.
+- **Purpose:** Freeze the verified editorial scope for `gazebo.kayu.co.id` and prevent family research from overriding this project's actual catalog boundaries.
+- **Summary:** `gazebo.kayu.co.id` is a member of **F05 Outdoor wood structures**. Shared evidence is reused here, but its applicability is filtered through this project's topic map, application, jurisdiction, product, and installed-system gates.
+- **Grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-01` (Gazebo selection and project brief); `GZK-02` (Timber species and material quality); `GZK-03` (Layout, form, and site planning); `GZK-04` (Structural frame and joinery); `GZK-05` (Foundations and ground interface); `GZK-06` (Roof and rain management); `GZK-07` (Moisture, termites, fungi, and weathering); `GZK-08` (Finish and appearance); `GZK-09` (Construction and quality control); `GZK-10` (Comfort and use planning); `GZK-11` (Scope, estimating, and procurement); `GZK-12` (Inspection, maintenance, and repair). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+
+### KR-02 — Wood structure creates directionality and natural variability
+- **Sources:** [USDA Forest Products Laboratory Wood Handbook, revised 2021](https://research.fs.usda.gov/fpl/wood-handbook) and [Chapter 2 — commercially important woods](https://research.fs.usda.gov/treesearch/62246).
+- **Grade:** C-PRI — U.S. government technical reference.
+- **Purpose:** Ground anatomy, vocabulary, species/property, movement, machining, and failure explanations.
+- **Summary:** The handbook treats wood as a cellular, directional, naturally variable material whose behavior depends on anatomy, growth features, moisture, processing, and service environment.
+- **Grounded facts:** Species name alone does not establish an individual piece's grade, moisture, defects, strength, durability, machining response, or project suitability.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-01` (Gazebo selection and project brief). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** U.S. species tables and construction practice are not Indonesian design values. Use Indonesian/local evidence and actual specimens under G-02/G-06.
+
+### KR-03 — Indonesian trade names are not definitive species identification
+- **Sources:** [BRIN wood-anatomy study for five West Java/Banten species](https://ejournal.brin.go.id/jphh/article/view/12876), [BRIN Red List of 50 Indonesian commercial timber trees](https://penerbit.brin.go.id/press/catalog/book/310), and [USDA Chapter 2](https://research.fs.usda.gov/treesearch/62246).
+- **Grade:** C-PRI.
+- **Purpose:** Support species-name, substitution, identification, conservation, and suitability articles.
+- **Summary:** BRIN research identifies woods from anatomical features and botanical identity, while the Red List shows that commercial status can also carry conservation context.
+- **Grounded facts:** Local/trade name, color, smell, seller label, and one photograph are insufficient to prove botanical identity, legality, conservation status, or performance.
+- **Incorporation:** For `gazebo.kayu.co.id`, retain this as adjacent family evidence only. Do not force it into an outline unless a frozen catalog brief genuinely raises the issue and its applicability is rechecked.
+- **Limits/recheck:** Obtain specimen provenance, anatomical examination or qualified identification, current conservation/trade status, and purchase documents under G-02/G-11.
+
+### KR-04 — Moisture content is method- and specimen-dependent
+- **Sources:** [ISO 13061-1:2014, confirmed 2025](https://www.iso.org/standard/60063.html) and [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
+- **Grade:** B-STD / C-PRI.
+- **Purpose:** Ground moisture measurement, acclimation, shrinkage, movement, and diagnostic articles.
+- **Summary:** ISO 13061-1 visibly covers oven-dry moisture determination for small clear specimens used in physical/mechanical tests; the handbook explains moisture relations and dimensional behavior more broadly.
+- **Grounded facts:** Meter species correction, temperature, depth, contact, sampling location, coatings, gradients, reference method, and service climate affect interpretation.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-02` (Timber species and material quality); `GZK-05` (Foundations and ground interface); `GZK-06` (Roof and rain management); `GZK-07` (Moisture, termites, fungi, and weathering); `GZK-08` (Finish and appearance). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Do not publish universal target moisture, acclimation time, correction, or acceptance value without the full applicable method, product instructions, climate/use facts, and measurement plan under G-01/G-03.
+
+### KR-05 — Drying defects require process and moisture-history evidence
+- **Sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), [USDA Chapter 13 — drying and moisture control](https://www.fpl.fs.usda.gov/documnts/fplgtr/fplgtr190/chapter_13.pdf), and [BRIN study of honeycombing/deformation](https://ejournal.brin.go.id/jphh/article/view/12804).
+- **Grade:** C-PRI.
+- **Purpose:** Support drying, shrinkage, warp, checking, collapse, storage, and troubleshooting articles.
+- **Summary:** Drying behavior varies by species, anatomy, dimensions, initial condition, schedule, airflow, temperature, humidity, stacking, restraint, and endpoint.
+- **Grounded facts:** A visible crack or warp does not by itself prove the responsible stage or party; baseline condition and moisture/process history matter.
+- **Incorporation:** For `gazebo.kayu.co.id`, retain this as adjacent family evidence only. Do not force it into an outline unless a frozen catalog brief genuinely raises the issue and its applicability is rechecked.
+- **Limits/recheck:** No kiln schedule, rate, endpoint, recovery, or defect acceptance without exact species/product, equipment, measurements, qualified process review, and full governing documents under G-03/G-08.
+
+### KR-06 — Clear-specimen properties, commercial grade, and design values differ
+- **Sources:** [SNI 8853:2019 official BSN listing](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key=), [SNI 7973:2013 official record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), and [USDA mechanical-properties discussion](https://research.fs.usda.gov/treesearch/7149).
+- **Grade:** A-ID / C-PRI.
+- **Purpose:** Bound dimensions, defects, grading, mechanical properties, and structural claims.
+- **Summary:** BSN separately lists a small-clear-specimen test and a structural wood-design specification. USDA explains that clear-specimen averages vary and do not directly represent graded structural pieces.
+- **Grounded facts:** Test specimen, moisture, orientation, sampling, defects, grade, adjustment, edition, and design context must accompany any number.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-03` (Layout, form, and site planning); `GZK-04` (Structural frame and joinery); `GZK-12` (Inspection, maintenance, and repair). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Obtain full current standards, grading rules, source population, reports, and qualified interpretation before publishing property or design values under G-01/G-06.
+
+### KR-07 — Sawmill yield is an evidence chain, not a universal percentage
+- **Sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), [USDA commercial-lumber overview](https://research.fs.usda.gov/treesearch/7142), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
+- **Grade:** C-PRI / D-GUIDE.
+- **Purpose:** Support log conversion, sawing pattern, recovery, grading, residues, and safe-process explanations.
+- **Summary:** Log form/defects, species, dimensions, target products, kerf, breakdown, edging, drying, grading, rework, and residue definitions all affect reported recovery.
+- **Grounded facts:** Gross input, usable output, moisture basis, product mix, defect loss, rework, and residue destinations must be stated before comparing yield.
+- **Incorporation:** For `gazebo.kayu.co.id`, retain this as adjacent family evidence only. Do not force it into an outline unless a frozen catalog brief genuinely raises the issue and its applicability is rechecked.
+- **Limits/recheck:** No production capacity, yield, machine setting, or safety procedure without documented mill data, competent review, and G-08/G-13.
+
+### KR-08 — Veneer and plywood require construction, bond, and end-use evidence
+- **Sources:** [ISO 12465:2007 listing](https://www.iso.org/ics/79.060.10/x/), [ISO 12466-1:2007 test-method scope](https://www.iso.org/standard/40123.html), and [ISO 12466-2:2007 requirements scope](https://www.iso.org/standard/40124.html).
+- **Grade:** B-STD.
+- **Purpose:** Ground veneer cut/match, plywood construction, bond quality, blockboard, laminboard, and end-use articles.
+- **Summary:** ISO visibly separates plywood specifications, bonding-quality test methods, and intended-end-use requirements; the bond standards also cover blockboard, battenboard, and laminboard using thermosetting resin.
+- **Grounded facts:** Face/back, veneer species/cut/thickness, ply orientation, core, adhesive, conditioning, test method, bond class, dimensions, grade, and end use are separate evidence fields.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-03` (Layout, form, and site planning); `GZK-04` (Structural frame and joinery); `GZK-10` (Comfort and use planning). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** The public pages supply no acceptance values or proof for an offered panel. Resolve full standards, exact product construction, reports, and intended exposure under G-01/G-04/G-07.
+
+### KR-09 — Engineered panels and structural composites are different product families
+- **Sources:** [USDA wood-based composite overview](https://research.fs.usda.gov/treesearch/37421), [ISO wood-based-panel catalogue](https://www.iso.org/ics/79.060.01/x/), and [BSN wood-structure catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key=).
+- **Grade:** B-STD / C-PRI.
+- **Purpose:** Correct taxonomy among plywood, particleboard, MDF/fibreboard, OSB, barecore, blockboard, FJL, LVL, glulam, CLT, and non-wood composites.
+- **Summary:** Product construction, intended use, structural role, density, orientation, adhesive, test method, and declared performance—not a loose market label—define the evidence needed.
+- **Grounded facts:** A panel's thickness or appearance cannot prove bond durability, strength, fire, emission, moisture, fastener, or installed-system behavior.
+- **Incorporation:** For `gazebo.kayu.co.id`, retain this as adjacent family evidence only. Do not force it into an outline unless a frozen catalog brief genuinely raises the issue and its applicability is rechecked.
+- **Limits/recheck:** Confirm the exact product family and applicable current standard/test report under G-01/G-04/G-06.
+
+### KR-10 — Adhesive bond evidence is not a generic “waterproof” label
+- **Sources:** [ISO 12466-1:2007](https://www.iso.org/standard/40123.html), [ISO 12466-2:2007](https://www.iso.org/standard/40124.html), and [USDA Wood Handbook adhesive chapter index](https://research.fs.usda.gov/fpl/wood-handbook).
+- **Grade:** B-STD / C-PRI.
+- **Purpose:** Support adhesive-family, cure, exposure, veneer/panel bond, delamination, repair, and procurement articles.
+- **Summary:** Bond claims depend on adherends, surface preparation, adhesive system, mix/cure, pressing, conditioning, specimen, method, exposure class, workmanship, and service.
+- **Grounded facts:** “Exterior,” “marine,” “waterproof,” or adhesive chemistry alone does not prove the complete panel or joint will suit an application.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-11` (Scope, estimating, and procurement). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Obtain SDS, technical data, complete test/standard, production controls, compatibility, service exposure, and qualified review under G-04/G-07/G-09.
+
+### KR-11 — Formaldehyde results cannot be compared across unlike methods
+- **Sources:** [ISO 12460 panel-method catalogue](https://www.iso.org/ics/79.060.01/x/), [ISO 12460-2:2024 small-chamber method](https://www.iso.org/standard/84728.html?browse=tc), and [U.S. EPA composite-wood rule overview](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products).
+- **Grade:** B-STD / D-GUIDE.
+- **Purpose:** Ground emissions, labels, indoor-air, test-report, supplier, and safe-use articles.
+- **Summary:** ISO lists distinct chamber, gas-analysis, desiccator, and extraction methods with different editions/status. ISO 12460-2:2024 defines controlled chamber conditions and correlation use. EPA requirements are jurisdiction-specific.
+- **Grounded facts:** Method, chamber, temperature, humidity, loading, air exchange, conditioning, specimen, result units, correlation, edition, and jurisdiction are essential to interpretation.
+- **Incorporation:** For `gazebo.kayu.co.id`, retain this as adjacent family evidence only. Do not force it into an outline unless a frozen catalog brief genuinely raises the issue and its applicability is rechecked.
+- **Limits/recheck:** Never transfer U.S. limits to Indonesia or equate unlike methods. Obtain current Indonesian requirements, exact report, laboratory scope, product identity, and exposure assessment under G-01/G-05.
+
+### KR-12 — Preservative use class does not diagnose or treat existing damage
+- **Sources:** [ISO 21887:2007, confirmed 2023](https://www.iso.org/standard/40502.html?browse=ics) and [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
+- **Grade:** B-STD / C-PRI.
+- **Purpose:** Ground exposure/use class, natural durability, preservative selection, and prevention boundaries.
+- **Summary:** ISO 21887 defines service-situation use classes for pre-treatment and explicitly excludes remediation/eradication of existing damage; it does not itself provide definitive treatment specifications.
+- **Grounded facts:** Hazard exposure, species/sapwood, moisture, design detailing, treatment process, penetration/retention, compatibility, cut-end repair, and maintenance affect durability.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-01` (Gazebo selection and project brief); `GZK-02` (Timber species and material quality); `GZK-05` (Foundations and ground interface); `GZK-06` (Roof and rain management); `GZK-07` (Moisture, termites, fungi, and weathering); `GZK-08` (Finish and appearance); `GZK-10` (Comfort and use planning). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** No chemical, dose, retention, application, re-entry, disposal, or warranty advice without current authorized label/SDS, applicable law, product evidence, and licensed specialist review under G-05/G-09.
+
+### KR-13 — Indonesian natural-durability evidence is species, organism, and method specific
+- **Sources:** [BRIN study of 45 Indonesian woods against drywood/subterranean termites](https://ejournal.brin.go.id/jphh/article/view/12646), [BRIN study of 57 Indonesian woods under cover](https://ejournal.brin.go.id/jphh/article/view/12489?articlesBySameAuthorPage=2), and [ISO 21887](https://www.iso.org/standard/40502.html?browse=ics).
+- **Grade:** C-PRI / B-STD.
+- **Purpose:** Support termites, borers, fungi, natural durability, diagnosis, selection, and maintenance.
+- **Summary:** BRIN results show that durability classification varies across species and test exposure/organism; an average class is not proof for an unidentified installed component.
+- **Grounded facts:** Botanical identity, sapwood/heartwood, specimen, organism, exposure, test method, moisture path, condition, and treatment history matter.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-01` (Gazebo selection and project brief); `GZK-02` (Timber species and material quality); `GZK-05` (Foundations and ground interface); `GZK-06` (Roof and rain management); `GZK-07` (Moisture, termites, fungi, and weathering); `GZK-08` (Finish and appearance). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Diagnose actual activity and moisture/source conditions; obtain qualified pest/wood review and current product/legal evidence under G-02/G-09.
+
+### KR-14 — Structural timber requires current Indonesian design and project evidence
+- **Sources:** [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [USDA stress-grade overview](https://research.fs.usda.gov/treesearch/7148).
+- **Grade:** A-ID / C-PRI.
+- **Purpose:** Bound load, member, grade, connection, notch/hole, stability, seismic, and structural handoff articles.
+- **Summary:** BSN lists separate current records for Indonesian wood design and building loads. The USDA reference explains that stress grades combine sorting criteria, design properties, and a grade identity.
+- **Grounded facts:** Site loads, use, geometry, species/product, grade, moisture/service condition, duration, stability, fire, fasteners, corrosion, connections, bracing, alterations, and inspection form one design chain.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-03` (Layout, form, and site planning); `GZK-04` (Structural frame and joinery); `GZK-12` (Inspection, maintenance, and repair). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** No sizes, spans, capacities, connection schedules, notches, holes, or approval from public records. Obtain full standards, drawings, calculations, product/grade evidence, survey, and signed structural review under G-01/G-06.
+
+### KR-15 — Fire behavior belongs to the tested/protected assembly and fire strategy
+- **Sources:** [USDA Wood Handbook fire-safety chapter index](https://research.fs.usda.gov/fpl/wood-handbook), [SNI 7973:2013 record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
+- **Grade:** A-ID / C-PRI / D-GUIDE.
+- **Purpose:** Support ignition, charring, surface behavior, encapsulation, penetrations, post-fire assessment, and dust/fire boundaries.
+- **Summary:** Fire response depends on product/material, density/moisture, geometry, orientation, adhesive/finish/treatment, protection, joints, penetrations, load, exposure, test method, and complete assembly.
+- **Grounded facts:** Charring discussion, surface test, coating claim, or material name cannot establish a building fire-resistance rating or post-fire reuse.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-03` (Layout, form, and site planning); `GZK-04` (Structural frame and joinery); `GZK-12` (Inspection, maintenance, and repair). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Obtain current Indonesian fire/building basis, complete test report, tested-to-proposed equivalence, incident facts, and fire/structural/K3 review under G-06/G-10.
+
+### KR-16 — Material selection begins with service exposure and evidence hierarchy
+- **Sources:** [ISO 21887](https://www.iso.org/standard/40502.html?browse=ics), [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
+- **Grade:** B-STD / C-PRI.
+- **Purpose:** Build specification and selection workflows without ranking vague trade labels.
+- **Summary:** Interior/exterior, wetting/drying, ground contact, biological hazard, structural role, appearance, wear, emissions, fire, maintenance, fabrication, availability, and evidence must be resolved before selection.
+- **Grounded facts:** Selection should state requirement, evidence, acceptance method, responsible reviewer, deviation control, and maintenance assumptions.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-01` (Gazebo selection and project brief); `GZK-02` (Timber species and material quality); `GZK-05` (Foundations and ground interface); `GZK-06` (Roof and rain management); `GZK-07` (Moisture, termites, fungi, and weathering); `GZK-08` (Finish and appearance). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Exact suitability remains product-, project-, site-, and professional-dependent under G-03/G-04/G-06.
+
+### KR-17 — Indonesian forestry/legal evidence changed after the original 2023 audit
+- **Sources:** [Permen LHK 8/2021 status record](https://peraturan.bpk.go.id/Details/235254/), [Permenhut 23/2025 amendment](https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025), [PP 8/2026 amendment to PP 23/2021](https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026), and [official SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data).
+- **Grade:** A-ID.
+- **Purpose:** Ground legality, forest origin, processing, transport/export-document, and regulatory-refresh articles.
+- **Summary:** Permen LHK 8/2021 remains listed as effective but was amended by Permenhut 23/2025; PP 23/2021 was amended in 2026. SILK remains a primary operational evidence service.
+- **Grounded facts:** A legal/sustainability claim must identify the current rule, actor, activity, source, product, document, issuer, holder, scope, date/status, and verification path.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-11` (Scope, estimating, and procurement). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Read consolidated operative texts and current implementing rules; verify actual documents in the official system with legal/compliance review under G-11.
+
+### KR-18 — Chain of custody improves traceability but does not prove sustainability by itself
+- **Sources:** [ISO 22095:2020](https://www.iso.org/standard/72532.html) and [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html).
+- **Grade:** B-STD.
+- **Purpose:** Support traceability, certification-scope, mass-balance, supplier-claim, recycled/reclaimed, and procurement articles.
+- **Summary:** ISO 22095 defines generic chain-of-custody terminology/models and explicitly says the standard alone cannot support claims about material or product characteristics; a 2026 amendment now applies.
+- **Grounded facts:** Claim scheme, input eligibility, identity/lot, model, conversion/loss, segregation, transactions, sites, certificate scope/status, assurance, and downstream wording must align.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-09` (Construction and quality control); `GZK-11` (Scope, estimating, and procurement). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Obtain the full amended standard, claim-scheme rules, current certificates, transaction evidence, and verification under G-11/G-12.
+
+### KR-19 — Storage and acclimation must preserve identity and measured condition
+- **Sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), [USDA drying/moisture chapter](https://www.fpl.fs.usda.gov/documnts/fplgtr/fplgtr190/chapter_13.pdf), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
+- **Grade:** C-PRI / D-GUIDE.
+- **Purpose:** Ground packaging, transport, stacking, ventilation, moisture logging, quarantine, lifting, and receiving.
+- **Summary:** Protection from liquid water while allowing appropriate ventilation, support/restraint, separation from ground/contamination, and condition records are different controls.
+- **Grounded facts:** Delivery identity, packaging, damage, dimensions, moisture sample, storage location, support spacing, cover/airflow, weather, handling, and release should be recorded.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-02` (Timber species and material quality); `GZK-05` (Foundations and ground interface); `GZK-06` (Roof and rain management); `GZK-07` (Moisture, termites, fungi, and weathering); `GZK-08` (Finish and appearance). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** No universal stacking, acclimation, lift, or acceptance instruction without product/supplier requirements and site-specific safe method under G-03/G-08/G-13.
+
+### KR-20 — Machining, fastening, bonding, and finishing are interface decisions
+- **Sources:** [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
+- **Grade:** C-PRI / D-GUIDE.
+- **Purpose:** Support grain-aware machining, joinery, pilot holes, fastening, movement allowance, edge sealing, sanding, samples, and repairability.
+- **Summary:** Wood/product anatomy, moisture, grade/defects, orientation, tool/process, fastener, joint geometry, adhesive, substrate preparation, coating, cure, service, and movement interact.
+- **Grounded facts:** A sample/mockup and manufacturer instructions are needed where appearance, adhesion, compatibility, movement, or repairability matters.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-02` (Timber species and material quality); `GZK-05` (Foundations and ground interface); `GZK-06` (Roof and rain management); `GZK-07` (Moisture, termites, fungi, and weathering); `GZK-08` (Finish and appearance). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Do not provide machine bypass, cutting parameters, chemical recipes, or structural joint design. Resolve through G-07/G-08/G-13.
+
+### KR-21 — Inspection begins with baseline, cause pathways, and consequence
+- **Sources:** [ISO 13822:2010 official record](https://www.iso.org/standard/46556.html) and [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook).
+- **Grade:** B-STD / C-PRI.
+- **Purpose:** Ground inspection, maintenance, symptom diagnosis, repair, replacement, post-flood/fire, and reuse decisions.
+- **Summary:** Assessment of existing structures requires actual condition and changed use/deterioration/damage evidence; wood symptoms must be traced across moisture, biology, load, connection, product bond, finish, and maintenance pathways.
+- **Grounded facts:** Baseline identity, drawings, exposure, measurements, moisture map, defect/activity, extent, concealed risk, temporary controls, cause, consequence, action, reviewer, and follow-up belong in the record.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-02` (Timber species and material quality); `GZK-05` (Foundations and ground interface); `GZK-06` (Roof and rain management); `GZK-07` (Moisture, termites, fungi, and weathering); `GZK-08` (Finish and appearance); `GZK-09` (Construction and quality control); `GZK-12` (Inspection, maintenance, and repair). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** No remaining capacity, safe occupancy, repair, interval, or reuse decision without project evidence and qualified review under G-09/G-10.
+
+### KR-22 — Woodshop K3 requires a hierarchy, not PPE-only advice
+- **Sources:** [ILO Safety and health at the wood workshop](https://www.ilo.org/publications/safety-and-health-wood-workshop) and [ILO 2025 forestry-work code](https://www.ilo.org/resource/other/code-practice-safety-and-health-forestry-work).
+- **Grade:** D-GUIDE.
+- **Purpose:** Support guarding, energy control, cutting/kickback, dust, noise, ergonomics, chemicals, fire, housekeeping, and emergency planning.
+- **Summary:** ILO identifies serious machine, dust, noise, slip/trip, and broader workplace hazards and directs users toward competent local occupational-safety authority.
+- **Grounded facts:** Task, machine/material, energy, guards, extraction, noise/dust/chemical exposure, maintenance, competence, supervision, exclusion, housekeeping, fire, first aid, incident, and emergency/rescue controls must be site-specific.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-02` (Timber species and material quality); `GZK-09` (Construction and quality control); `GZK-10` (Comfort and use planning); `GZK-12` (Inspection, maintenance, and repair). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** ILO guidance is not an Indonesian legal compliance certificate. Resolve consolidated Indonesian K3 law, exposure assessment, equipment instructions, risk assessment, and competent review under G-13.
+
+### KR-23 — Waste identity and environmental obligations precede reuse or disposal claims
+- **Sources:** [PP 22/2021 official BPK record](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), and [ISO 22095](https://www.iso.org/standard/72532.html).
+- **Grade:** A-ID / C-PRI / B-STD.
+- **Purpose:** Ground residues, offcuts, dust, coatings/adhesives, wastewater, packaging, reuse, recycling, carbon, and disposal.
+- **Summary:** PP 22/2021 visibly covers B3 and non-B3 waste, environmental approvals, pollution controls, monitoring, and enforcement; material reuse does not erase contamination or product-safety questions.
+- **Grounded facts:** Waste/material identity, source process, chemicals/treatments, contamination, quantity, storage, transport, receiver, records, proposed use, claim basis, and closure must be known.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-10` (Comfort and use planning). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Obtain current classification, permits/approvals, analysis where needed, authorized transport/receiver, reuse suitability, and legal/environmental review under G-12/G-14.
+
+### KR-24 — Procurement compares evidence-equivalent offers, not labels or price alone
+- **Sources:** [ISO 22095 and 2026 amendment](https://www.iso.org/standard/72532.html), [SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
+- **Grade:** A-ID / B-STD.
+- **Purpose:** Support RFQ, supplier comparison, sampling, receiving, deviations, lifecycle cost, claims, and handover.
+- **Summary:** A comparable offer identifies exact product/specification, quantity basis, evidence, deviations, logistics, inspection/acceptance, traceability, warranty, and current commercial terms.
+- **Grounded facts:** Domain age, logo, certificate image, sample, test badge, species name, or lowest price does not independently prove legal origin, quality, suitability, capacity, or delivered conformity.
+- **Incorporation:** For `gazebo.kayu.co.id`, use this record in `GZK-02` (Timber species and material quality); `GZK-09` (Construction and quality control); `GZK-11` (Scope, estimating, and procurement); `GZK-12` (Inspection, maintenance, and repair). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
+- **Limits/recheck:** Obtain dated quotations, actual samples/submittals, certificate/report verification, capability evidence, inspection plan, contract terms, and receiving records under G-04/G-11/G-15.
+
+### KR-25 — An occupied gazebo is a site-specific building decision, not merely a furniture purchase
+- **Sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-) and [SIMBG public service](https://simbg.pu.go.id/).
+- **Grade:** A-ID.
+- **Purpose:** Ground function, site, building-governance, approval, inspection, use, alteration, and handover articles.
+- **Summary:** PP 16/2021 governs building implementation and places technical requirements, approval, inspection, and functional-worthiness questions inside the applicable building and local process.
+- **Grounded facts:** The marketing label “gazebo,” small area, open sides, prefabrication, or garden location does not by itself settle classification, approval, setback, site, accessibility, fire, structural, or use obligations.
+- **Incorporation:** Use in `GZK-01`, `GZK-03`, `GZK-05`, `GZK-09`, `GZK-10`, `GZK-11`, and `GZK-12` to begin with actual function, location, users, permanence, work scope, and local authority.
+- **Limits/recheck:** Confirm current national and local rules, land/site status, function/classification, proposed work, PBG/SLF applicability, submissions, responsible professionals, inspections, and approvals under G-02.
+
+### KR-26 — Occupancy, self-weight, wind, rain, and other actions belong to one load path
+- **Sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
+- **Grade:** A-ID / B-STD.
+- **Purpose:** Ground layout, frame, bracing, roof, foundation, inspection, and “strong enough” boundaries.
+- **Summary:** BSN identifies current Indonesian standards for minimum design loads/related criteria and structural wood design; they must be read together with the actual site, geometry, material grades, connections, and foundation system.
+- **Grounded facts:** Member dimensions or wood species alone do not establish the complete load path, lateral stability, uplift resistance, serviceability, connection capacity, or foundation adequacy.
+- **Incorporation:** Use in `GZK-03` through `GZK-06` and `GZK-09` through `GZK-12` to explain inputs and engineer review without publishing prescriptive sizing.
+- **Limits/recheck:** Obtain licensed current standards, occupancy/use, geometry, dead/live/rain/wind inputs, topography/exposure, material grades, connection data, calculations, drawings, and signed structural review under G-01/G-03/G-05.
+
+### KR-27 — Seismic applicability is site, soil, system, and configuration specific
+- **Sources:** [SNI 1726:2019 official BSN catalogue](https://pesta.bsn.go.id/produk/index?key=1726) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
+- **Grade:** B-STD.
+- **Purpose:** Prevent “small/light/open structure” language from bypassing seismic and connection review.
+- **Summary:** BSN lists SNI 1726:2019 for earthquake-resistant design of building and non-building structures; its project application requires current full text and qualified interpretation.
+- **Grounded facts:** Light weight, traditional appearance, open walls, modular fabrication, or one-storey height does not independently prove seismic exemption or acceptable anchorage and load transfer.
+- **Incorporation:** Use in `GZK-03`, `GZK-04`, `GZK-05`, `GZK-09`, and `GZK-12` as a design-input and alteration/repair gate.
+- **Limits/recheck:** Resolve site seismic inputs, soil class, risk/use category, structural system, regularity, connection/anchorage, foundation, nonstructural components, applicable exceptions, and engineer acceptance under G-01/G-03/G-05.
+
+### KR-28 — Foundation selection requires ground, water, drainage, loads, and constructability evidence
+- **Sources:** [SNI 8460:2017 official BSN record](https://pesta.bsn.go.id/produk/detail/13506-84602017), [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-).
+- **Grade:** A-ID / B-STD.
+- **Purpose:** Ground footings, anchors, settlement, slopes, excavation, drainage interfaces, and site acceptance.
+- **Summary:** BSN identifies a current Indonesian geotechnical-design standard; a foundation decision therefore starts with the actual site and structure rather than a generic footing detail.
+- **Grounded facts:** Soil label, one photograph, neighbouring practice, or a contractor’s standard detail does not establish bearing, settlement, uplift, lateral, erosion, groundwater, slope, or buried-service suitability.
+- **Incorporation:** Use in `GZK-03`, `GZK-05`, `GZK-09`, `GZK-11`, and `GZK-12` to define investigation, design, excavation, hold-point, and repair questions.
+- **Limits/recheck:** Obtain survey, ground profile, water/drainage, slopes, hazards, buried services, structure reactions, investigation/testing basis, excavation method, concrete/anchor evidence, inspection, and geotechnical/structural sign-off under G-04/G-05/G-10.
+
+### KR-29 — Roof water management extends beyond the visible roof covering
+- **Sources:** [SNI 8153:2025 listing in the official BSN plumbing catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=), [SNI 8456:2025 listing in the same catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.140.60&key=), and [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-).
+- **Grade:** A-ID / B-STD.
+- **Purpose:** Ground pitch, drainage, gutters, discharge, splash, erosion, infiltration, overflow, and maintenance access.
+- **Summary:** The current BSN catalogue separately identifies building plumbing and rainwater infiltration standards; roof runoff must be coordinated from catchment and conveyance through safe discharge and site drainage.
+- **Grounded facts:** Roof area/material alone does not prove gutter, outlet, overflow, discharge, erosion, infiltration, waterproofing, or foundation-moisture performance.
+- **Incorporation:** Use in `GZK-03`, `GZK-05`, `GZK-06`, `GZK-07`, `GZK-09`, `GZK-10`, and `GZK-12` to map the water path and inspection points.
+- **Limits/recheck:** Obtain current full standards, local rainfall/site data, catchment geometry, roof instructions, drainage/infiltration capacity, overflow route, soil/groundwater, interfaces, maintenance access, and qualified hydraulic/site review under G-01/G-03/G-04/G-06.
+
+### KR-30 — Outdoor lighting and power require electrical design and verification
+- **Sources:** [SNI 0225-2:2020 PUIL design record](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020), [SNI 0225-4-41:2020 official PUIL catalogue](https://pesta.bsn.go.id/produk/index?key=Puil), and [SNI 0225-6:2020 listed by BSN](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020).
+- **Grade:** B-STD.
+- **Purpose:** Bound lighting, sockets, fans, pumps, controls, cabling, weather exposure, shock protection, and commissioning claims.
+- **Summary:** PUIL separates design, protection against electric shock, equipment selection, and verification; outdoor exposure and wet interfaces cannot be handled as decoration-only details.
+- **Grounded facts:** Wattage, IP marketing, cable size, or a product certificate alone does not establish circuit protection, earthing, bonding, isolation, routing, environmental suitability, or a verified installation.
+- **Incorporation:** Use in `GZK-06`, `GZK-09`, `GZK-10`, `GZK-11`, and `GZK-12` to define interfaces and licensed-contractor/verification boundaries.
+- **Limits/recheck:** Obtain current full PUIL parts, supply/earthing facts, environment/exposure, loads, equipment data, routing, protection, competent design/installation, inspection, testing, and records under G-01/G-09/G-11.
+
+### KR-31 — Access and use planning must start with actual users and public/private function
+- **Sources:** [Permen PUPR 14/PRT/M/2017 official BPK record](https://peraturan.bpk.go.id/Details/104477/permen-) and [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-).
+- **Grade:** A-ID.
+- **Purpose:** Ground approach route, levels, circulation, seating, reach, guards, lighting, and independent-use boundaries.
+- **Summary:** The accessibility regulation frames safe, comfortable, easy, and independent access for building users and visitors; applicability and exact requirements depend on building function, users, site, and current rules.
+- **Grounded facts:** A wide opening, low step, movable ramp, or “elderly friendly” label does not establish an accessible route or compliant use.
+- **Incorporation:** Use in `GZK-01`, `GZK-03`, `GZK-05`, `GZK-10`, `GZK-11`, and `GZK-12` to identify users, route continuity, level changes, seating, controls, lighting, and maintenance.
+- **Limits/recheck:** Confirm current law and applicability, public/private function, user needs, site route, dimensions/gradients/surfaces/guards/clearances, lighting/controls, emergency use, and qualified review under G-02/G-09.
+
+### KR-32 — Construction safety is managed across design, planning, execution, and records
+- **Sources:** [Permen PUPR 10/2021 official JDIH record](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
+- **Grade:** A-ID / D-GUIDE.
+- **Purpose:** Ground excavation, lifting, temporary stability, work at height, cutting, chemicals, electrical work, housekeeping, and handover.
+- **Summary:** Indonesian SMKK guidance places construction safety inside a managed system; gazebo work can combine workshop hazards with site excavation, lifting, temporary bracing, roof access, and public interface.
+- **Grounded facts:** Small scale, short duration, prefabrication, experienced workers, or PPE does not remove design-for-safety, method, competence, supervision, exclusion, emergency, inspection, and record needs.
+- **Incorporation:** Use in `GZK-04` through `GZK-06`, `GZK-09`, `GZK-11`, and `GZK-12` to state hazards and stop/competence boundaries without giving worker operating instructions.
+- **Limits/recheck:** Confirm current consolidated K3/SMKK obligations, roles, risk assessment, temporary works, equipment, lifting, height/excavation/electrical/chemical controls, public protection, weather limits, emergency/rescue, inspection, and closeout under G-10/G-11.
+
+### KR-33 — A roof-sheet product standard does not prove the installed roof system
+- **Sources:** [SNI 9374:2025 official BSN catalogue listing for corrugated metal-coated steel roof/wall products](https://pesta.bsn.go.id/produk/index/461), [SNI 66:2024 official BSN record](https://pesta.bsn.go.id/produk/detail/14854-sni662024), and [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020).
+- **Grade:** B-STD.
+- **Purpose:** Bound material selection, profile, coating, fasteners, underlay, flashings, condensation, wind, water, and warranty claims.
+- **Summary:** BSN separately identifies material/product standards and load criteria; installed roof performance also depends on profile/span, support, fasteners, laps, penetrations, drainage, ventilation, workmanship, exposure, and maintenance.
+- **Grounded facts:** Base-metal/coating label, thickness, colour, or “anti bocor/panas/karat” marketing does not establish complete roof wind, water, thermal, acoustic, condensation, corrosion, or service-life performance.
+- **Incorporation:** Use in `GZK-06`, `GZK-07`, `GZK-09`, `GZK-11`, and `GZK-12` while keeping non-metal coverings and manufacturer-specific systems separate.
+- **Limits/recheck:** Obtain current complete standards, exact proposed roof system, product data/instructions, load/support/fastener design, environmental compatibility, samples, installation inspection, maintenance, and warranty evidence under G-01/G-03/G-05/G-06/G-11.
+
+## Topic-family coverage matrix
+
+| Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting |
+| --- | --- | --- | --- |
+| `GZK-01` | KR-01, KR-16, KR-24, KR-25, KR-31 | Decide from actual use, users, site, material/system boundary, approval path, accessibility, and evidence-equivalent scope. | G-02, G-03, G-06, G-09, G-12, G-13 |
+| `GZK-02` | KR-02, KR-03, KR-04, KR-06, KR-13, KR-17, KR-18, KR-24 | Specify wood identity, condition, grade, durability context, legality, traceability, and acceptance without “best wood” shortcuts. | G-01, G-03, G-06, G-07, G-12, G-13 |
+| `GZK-03` | KR-25, KR-26, KR-27, KR-28, KR-29, KR-31 | Coordinate use, form, route, orientation, level, drainage, ground, load, and approval inputs without structural sizing. | G-02, G-03, G-04, G-05, G-09 |
+| `GZK-04` | KR-06, KR-14, KR-20, KR-26, KR-27 | Explain load path, bracing, material grade, joints, connections, anchorage, and engineer handoff. | G-01, G-03, G-05, G-06, G-11 |
+| `GZK-05` | KR-12, KR-13, KR-25, KR-26, KR-27, KR-28, KR-29 | Coordinate soil, water, drainage, footing, anchor, biological separation, excavation, inspection, and structural interfaces. | G-02, G-03, G-04, G-05, G-07, G-10, G-11 |
+| `GZK-06` | KR-04, KR-19, KR-20, KR-26, KR-29, KR-33 | Map covering, support, wind/rain, drainage, condensation, fastener, finish, ventilation, and maintenance interfaces. | G-01, G-03, G-05, G-06, G-07, G-11 |
+| `GZK-07` | KR-04, KR-12, KR-13, KR-16, KR-19, KR-21 | Explain exposure, moisture paths, organisms, prevention, diagnosis, treatment boundary, and inspection evidence. | G-03, G-06, G-07, G-11 |
+| `GZK-08` | KR-04, KR-16, KR-20, KR-21, KR-24 | Select finish from exposure, substrate, preparation, sample, compatibility, maintenance, and actual product evidence. | G-03, G-06, G-07, G-11, G-13 |
+| `GZK-09` | KR-20, KR-22, KR-24, KR-25, KR-26, KR-28, KR-30, KR-32, KR-33 | Define submittals, hold points, temporary stability, safe execution, installation checks, testing, records, and handover. | G-02, G-04, G-05, G-06, G-09, G-10, G-11, G-13 |
+| `GZK-10` | KR-15, KR-25, KR-26, KR-29, KR-30, KR-31 | Plan actual users, shade/airflow, route/seating, lighting/power, weather, water, fire, and independent-use interfaces. | G-02, G-03, G-08, G-09 |
+| `GZK-11` | KR-17, KR-18, KR-24, KR-25, KR-26, KR-28, KR-32 | Compare complete scope, design/site assumptions, lawful materials, exclusions, safety, inspection, schedule, warranty, and handover evidence. | G-02, G-03, G-04, G-05, G-10, G-12, G-13 |
+| `GZK-12` | KR-21, KR-24, KR-25, KR-26, KR-28, KR-29, KR-30, KR-32, KR-33 | Inspect against a baseline, diagnose cause/consequence, preserve records, and route structural/electrical/site repairs to competent review. | G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-11, G-13 |
+
+Coverage result: **12/12 topic families mapped; 0 families without a starting evidence set.**
+
+## Cross-catalog fact bank
+
+1. Wood species, an individual piece, a graded lot, a processed panel, and an installed system are different evidence objects.
+2. Moisture, test method, specimen orientation/condition, grade, and service exposure must travel with property values.
+3. A standards catalogue proves identity/status/visible scope, not licensed requirements or product compliance.
+4. A foreign method or rule is not Indonesian law; a certificate or chain-of-custody system does not by itself prove every product characteristic.
+5. Commercial availability, price, capacity, warranty, legality, and delivered conformity require current project and transaction evidence.
+
+## Evidence gaps and publication gates
+
+| Gate | Affected topic families | Resolution required |
+| --- | --- | --- |
+| `G-01` Current complete standards and exact acceptance | `GZK-02`, `GZK-04`, `GZK-06`, `GZK-09` | Obtain licensed current editions, applicable clauses, methods, inputs, units, tolerances, acceptance, and qualified interpretation |
+| `G-02` Function, site, users, local rules, PBG/SLF, and approvals | `GZK-01`, `GZK-03`, `GZK-05`, `GZK-09`, `GZK-10`, `GZK-11`, `GZK-12` | Verify location, land/site constraints, public/private function, permanence, users, work scope, local rules, PBG/SLF applicability, submissions, responsible parties, and authority decisions |
+| `G-03` Climate, occupancy, loads, exposure, and geometry | `GZK-01`, `GZK-02`, `GZK-03`, `GZK-04`, `GZK-05`, `GZK-06`, `GZK-07`, `GZK-08`, `GZK-10`, `GZK-11`, `GZK-12` | Obtain surveyed geometry, use/occupancy, wind/rain/seismic inputs, topography, microclimate, wetting/drying, temperature, shade, vegetation, drainage, and change scenarios |
+| `G-04` Ground, foundation, anchors, slopes, water, and services | `GZK-03`, `GZK-05`, `GZK-09`, `GZK-11`, `GZK-12` | Obtain survey, investigation, soil/groundwater/drainage/slope/service facts, reactions, design, excavation/temporary works, concrete/anchor evidence, inspection, and geotechnical/structural acceptance |
+| `G-05` Complete structural design, connections, stability, and acceptance | `GZK-03`, `GZK-04`, `GZK-05`, `GZK-06`, `GZK-09`, `GZK-11`, `GZK-12` | Obtain current load/seismic/wood basis, material grades, calculations, drawings, load path, bracing, connections, anchorage, temporary stability, inspections, deviations, and signed engineer review |
+| `G-06` Exact material, roof, finish, fastener, and product-system evidence | `GZK-01`, `GZK-02`, `GZK-04`, `GZK-06`, `GZK-07`, `GZK-08`, `GZK-09`, `GZK-12` | Obtain product construction/grade/moisture/coating, current data/instructions/SDS/reports, exposure and compatibility evidence, samples/mockups, fastening/lap/detail basis, maintenance, and warranty |
+| `G-07` Moisture, biological damage, treatment, drainage, and durability | `GZK-05`, `GZK-06`, `GZK-07`, `GZK-08`, `GZK-12` | Verify species/product, moisture paths, ground separation, drainage/ventilation, organism/activity, treatment identity/label/history, finish system, inspection baseline, specialist disposition, and follow-up |
+| `G-08` Fire strategy, ignition sources, assembly evidence, and post-fire decision | `GZK-10`, `GZK-12` | Confirm function/users, local fire basis, ignition/electrical/cooking exposure, separation/escape/access, exact assembly evidence, controls, incident facts, and fire/structural decision |
+| `G-09` Accessible route, lighting, power, controls, and electrical verification | `GZK-01`, `GZK-03`, `GZK-09`, `GZK-10`, `GZK-12` | Verify user/function applicability, continuous route and level-change details, seating/guards/controls, supply/earthing/environment, circuit protection, equipment, competent design/installation, testing, and records |
+| `G-10` Construction K3, temporary works, lifting, height, and public protection | `GZK-05`, `GZK-09`, `GZK-11` | Confirm current duties, risk assessment, competence, temporary stability, excavation/lifting/height/machine/electrical/chemical controls, weather limits, exclusion, emergency/rescue, supervision, and records |
+| `G-11` Inspection, quality control, testing, deviations, and handover | `GZK-04`, `GZK-05`, `GZK-06`, `GZK-07`, `GZK-08`, `GZK-09`, `GZK-12` | Define approved submittals, samples, hold points, measurements, inspections/tests, nonconformance, concealed-work records, commissioning, as-built documents, care plan, warranty, and acceptance |
+| `G-12` Current legality, traceability, sustainability, and claim scope | `GZK-01`, `GZK-02`, `GZK-11` | Verify species/product/source, current forestry rules, official status, chain model, certificate holder/scope, transaction records, conservation/trade context, lifecycle method, and authorized wording |
+| `G-13` Equivalent scope, price, schedule, supplier, contract, and warranty | `GZK-01`, `GZK-02`, `GZK-08`, `GZK-09`, `GZK-11`, `GZK-12` | Obtain dated offers with the same site/design/material/finish/MEP/approval/safety/QC/logistics scope, explicit exclusions/deviations, capability, milestones, payment, acceptance, warranty, maintenance, and claim route |
+
+## Source-refresh triggers
+
+Recheck immediately when:
+
+- an outline uses law, SNI status, certification, export, environmental, K3, or product-compliance language;
+- ISO/BSN records show review, amendment, replacement, confirmation, or withdrawal;
+- a supplier, product construction, adhesive/finish/preservative, report, certificate, label, or warranty changes;
+- project climate, use, load, fire strategy, moisture exposure, substrate, installation, or maintenance conditions differ;
+- an exact value, class, tolerance, test result, service life, price, yield, capacity, or acceptance decision is proposed;
+- publication begins more than 90 days after this verification date for law/safety/legal pages, or more than 12 months later for stable technical foundations.
+
+## Next authorized stage
+
+The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
