@@ -349,6 +349,42 @@ It is not an article, a substitute for licensed standards, an engineering calcul
 - **Incorporation:** Use in `GZK-06`, `GZK-07`, `GZK-09`, `GZK-11`, and `GZK-12` while keeping non-metal coverings and manufacturer-specific systems separate.
 - **Limits/recheck:** Obtain current complete standards, exact proposed roof system, product data/instructions, load/support/fastener design, environmental compatibility, samples, installation inspection, maintenance, and warranty evidence under G-01/G-03/G-05/G-06/G-11.
 
+### KR-34 — Bamboo culms and engineered bamboo are different structural product families
+- **Sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc) and [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html).
+- **Grade:** B-STD — international technical references, not Indonesian law.
+- **Purpose:** Ground bamboo selection, culm condition, structural scope, joints, durability, and engineered-product boundaries.
+- **Summary:** ISO 22156:2021 visibly applies to primary structures made from round bamboo culms within stated scope and exclusions, while ISO 7567:2024 separately addresses glued-laminated bamboo product specifications.
+- **Grounded facts:** Species/trade name, culm diameter, age claim, treatment claim, or “engineered bamboo” label does not establish characteristic properties, grade, connection behavior, durability, product conformity, or Indonesian project acceptance.
+- **Incorporation:** Use only when a local catalog contains bamboo materials or systems; distinguish round culm, split components, panels, glued-laminated, and hybrid construction before discussing evidence.
+- **Limits/recheck:** ISO 22156 is under systematic review in 2026 and is not an Indonesian compliance basis by itself. Obtain current full standards, Indonesian/local applicability, identity/maturity/moisture/defects, treatment, sampling/tests, design values, connections, exposure, execution, and engineer acceptance under G-01/G-05/G-06/G-07.
+
+### KR-35 — Steel, concrete, masonry, and hybrids require their own material-system evidence
+- **Sources:** [SNI 1729:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 2847:2019 official BSN catalogue](https://pesta.bsn.go.id/produk/index/2?key=2019), and [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020).
+- **Grade:** B-STD.
+- **Purpose:** Ground non-wood gazebo frames, concrete/masonry supports, reinforcement, welding/bolting, corrosion, cracking, and hybrid interfaces.
+- **Summary:** BSN separately identifies standards for structural steel, structural concrete, and design loads; none makes a generic “metal,” “beton,” or “permanent” label a design.
+- **Grounded facts:** Section size, wall thickness, concrete strength label, visible reinforcement, weld appearance, coating name, or hybrid sketch does not establish capacity, stability, durability, fire, interface, or installed conformity.
+- **Incorporation:** Use only for local steel, concrete, masonry, or hybrid topics; define the exact material/system and professional evidence rather than importing wood conclusions.
+- **Limits/recheck:** Obtain current complete applicable standards, material certificates/tests, exposure, corrosion/crack controls, reinforcement/connection details, welding/bolting qualifications, drawings, calculations, inspection, and engineer acceptance under G-01/G-05/G-06/G-11.
+
+### KR-36 — Lightning protection begins with documented risk assessment
+- **Sources:** [SNI IEC 62305-1:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9457-sniiec62305-12013) and [SNI IEC 62305-2:2009 official BSN record](https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009).
+- **Grade:** B-STD.
+- **Purpose:** Bound lightning-risk, external protection, earthing, bonding, surge, inspection, and “needs a rod” claims.
+- **Summary:** BSN separately identifies general lightning-protection principles and risk management; a structure’s need and solution are not established by height or roof material alone.
+- **Grounded facts:** A nearby taller object, isolated location, metal roof, simple air terminal, or product certificate does not independently prove acceptable lightning risk or a complete protection system.
+- **Incorporation:** Use for electrical/user-safety, site planning, procurement, and maintenance topics to require specialist assessment and coordination with structural/electrical/earthing systems.
+- **Limits/recheck:** Obtain current complete standard set, site/structure/use data, exposure and consequences, incoming services, existing protection, risk calculation, competent design/installation, component evidence, inspection/testing, and maintenance under G-01/G-09/G-11.
+
+### KR-37 — Cultural form must be documented locally and separated from structural performance
+- **Sources:** [Kemdikbud BPNB West Java discussion of Sundanese raised-house activity and terminology](https://kebudayaan.kemdikbud.go.id/bpnbjabar/aktivitas-masyarakat-sunda-di-golodog-imah-panggung/), [Kemdikbud cultural review of traditional architecture at Giri Jaya](https://kebudayaan.kemdikbud.go.id/bpnbjabar/patanjala-vol-2-no-3-september-2010/), and [Kemdikbud description of Cisamaya Kampung Pasundan](https://kebudayaan.kemdikbud.go.id/cisamaya-kampung-pasundan-tonjolkan-jejak-kehidupan-masyarakat-sunda/).
+- **Grade:** C-PRI — official cultural documentation, not a construction code or universal ethnographic conclusion.
+- **Purpose:** Ground saung/Sundanese-form vocabulary, context, use, materials, and respectful attribution without turning heritage narrative into a performance claim.
+- **Summary:** Official cultural sources show that traditional Sundanese built forms, raised construction, local natural materials, and community practices are context-linked and can include mixed historical influences.
+- **Grounded facts:** “Saung,” “Sunda,” “traditional,” roof silhouette, bamboo, or decorative motifs do not prove a single universal form, authenticity, cultural permission, seismic resistance, climate performance, or code compliance.
+- **Incorporation:** Use only in culturally framed topics; attribute the exact locality/source, distinguish living practice from commercial styling, and route engineering claims to the technical records.
+- **Limits/recheck:** Obtain topic-specific local/heritage sources, community or qualified cultural input, documented terminology/function/history, site context, design attribution/permission where relevant, and separate technical acceptance under G-02/G-03/G-05/G-06.
+
 ## Topic-family coverage matrix
 
 | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting |
