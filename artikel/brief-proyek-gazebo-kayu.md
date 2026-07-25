@@ -1,0 +1,193 @@
+---
+article_id: GZK-01-01
+title: "Cara Menyusun Brief Gazebo Kayu Sebelum Meminta Penawaran"
+slug: "brief-proyek-gazebo-kayu"
+description: "Decide whether a timber gazebo fits and define the project need"
+status: outline
+publication_date: "2025-10-12"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: GZK-01
+primary_intent: "Define project requirements"
+reader_community: "Kayu.co.id"
+reader_address: "Teman Kayu.co.id"
+final_route: "/artikel/brief-proyek-gazebo-kayu.html"
+technical_review: required
+sources:
+  - "https://www.iso.org/standard/40502.html?browse=ics"
+  - "https://research.fs.usda.gov/fpl/wood-handbook"
+  - "https://www.iso.org/ics/79.060.10/x/"
+  - "https://www.iso.org/standard/72532.html"
+  - "https://silk.menlhk.go.id/index.php/svlk/files/1/information-data"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
+  - "https://simbg.pu.go.id/"
+  - "https://peraturan.bpk.go.id/Details/104477/permen-"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Cara Menyusun Brief Gazebo Kayu Sebelum Meminta Penawaran
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Cara Menyusun Brief Gazebo Kayu Sebelum Meminta Penawaran”
+- **Reader and situation:** Decide whether a timber gazebo fits and define the project need
+- **Reader outcome:** Decide whether a timber gazebo fits and define the project need
+- **Primary intent:** Define project requirements
+- **Reader community:** `Kayu.co.id`
+- **Primary friendly address:** `Teman Kayu.co.id`
+- **Natural variants:** `Sobat Kayu.co.id` and `Kawan Kayu.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Decision hub; no construction specification
+- **Final public route:** `/artikel/brief-proyek-gazebo-kayu.html`
+- **Appointed CMS date:** `2025-10-12` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Teman Kayu.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Menyusun Brief Gazebo Kayu Sebelum Meminta Penawaran**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Teman Kayu.co.id`, `Sobat Kayu.co.id`, or `Kawan Kayu.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Freeze the verified editorial scope for `gazebo.kayu.co.id` and prevent family research from overriding this project's actual catalog boundaries.
+- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
+- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+
+### KR-16
+
+- **Original sources:** [ISO 21887](https://www.iso.org/standard/40502.html?browse=ics), [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
+- **Purpose for this article:** Build specification and selection workflows without ranking vague trade labels.
+- **Safe grounded facts:** Selection should state requirement, evidence, acceptance method, responsible reviewer, deviation control, and maintenance assumptions.
+- **Limits:** Exact suitability remains product-, project-, site-, and professional-dependent under G-03/G-04/G-06.
+
+### KR-24
+
+- **Original sources:** [ISO 22095 and 2026 amendment](https://www.iso.org/standard/72532.html), [SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
+- **Purpose for this article:** Support RFQ, supplier comparison, sampling, receiving, deviations, lifecycle cost, claims, and handover.
+- **Safe grounded facts:** Domain age, logo, certificate image, sample, test badge, species name, or lowest price does not independently prove legal origin, quality, suitability, capacity, or delivered conformity.
+- **Limits:** Obtain dated quotations, actual samples/submittals, certificate/report verification, capability evidence, inspection plan, contract terms, and receiving records under G-04/G-11/G-15.
+
+### KR-25
+
+- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-) and [SIMBG public service](https://simbg.pu.go.id/).
+- **Purpose for this article:** Ground function, site, building-governance, approval, inspection, use, alteration, and handover articles.
+- **Safe grounded facts:** The marketing label “gazebo,” small area, open sides, prefabrication, or garden location does not by itself settle classification, approval, setback, site, accessibility, fire, structural, or use obligations.
+- **Limits:** Confirm current national and local rules, land/site status, function/classification, proposed work, PBG/SLF applicability, submissions, responsible professionals, inspections, and approvals under G-02.
+
+### KR-31
+
+- **Original sources:** [Permen PUPR 14/PRT/M/2017 official BPK record](https://peraturan.bpk.go.id/Details/104477/permen-) and [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-).
+- **Purpose for this article:** Ground approach route, levels, circulation, seating, reach, guards, lighting, and independent-use boundaries.
+- **Safe grounded facts:** A wide opening, low step, movable ramp, or “elderly friendly” label does not establish an accessible route or compliant use.
+- **Limits:** Confirm current law and applicability, public/private function, user needs, site route, dimensions/gradients/surfaces/guards/clearances, lighting/controls, emergency use, and qualified review under G-02/G-09.
+
+## Evidence gates
+
+- **TOPIC-GATE:** G-02, G-03, G-06, G-09, G-12, G-13
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/gazebo-kayu-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/gazebo-kayu-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/gazebo-kayu-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/gazebo-kayu-tulungagung` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/gazebo-kayu-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/gazebo-kayu-trenggalek` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `GZK-01-02` → `/artikel/gazebo-kayu-vs-bambu.html` — Gazebo Kayu vs Bambu: Perbedaan Perawatan dan Karakter
+- `GZK-01-03` → `/artikel/gazebo-kayu-vs-besi.html` — Gazebo Kayu vs Besi untuk Area Luar Ruang
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Definisikan kebutuhan sebelum meminta harga
+
+- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
+- **Tie back to this article:** Keep the explanation specific to “Cara Menyusun Brief Gazebo Kayu Sebelum Meminta Penawaran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Buat penawaran benar-benar sebanding
+
+- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
+- **Tie back to this article:** Keep the explanation specific to “Cara Menyusun Brief Gazebo Kayu Sebelum Meminta Penawaran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Dokumen yang membuktikan hal berbeda
+
+- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
+- **Tie back to this article:** Keep the explanation specific to “Cara Menyusun Brief Gazebo Kayu Sebelum Meminta Penawaran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Pertanyaan wajib kepada penyedia
+
+- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
+- **Tie back to this article:** Keep the explanation specific to “Cara Menyusun Brief Gazebo Kayu Sebelum Meminta Penawaran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Red flag dan biaya yang sering tersembunyi
+
+- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
+- **Tie back to this article:** Keep the explanation specific to “Cara Menyusun Brief Gazebo Kayu Sebelum Meminta Penawaran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Penerimaan, serah terima, dan keputusan akhir
+
+- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
+- **Tie back to this article:** Keep the explanation specific to “Cara Menyusun Brief Gazebo Kayu Sebelum Meminta Penawaran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Teman Kayu.co.id!` and uses friendly `Kayu.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
